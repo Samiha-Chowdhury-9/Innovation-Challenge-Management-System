@@ -133,7 +133,7 @@ innovation-challenge-management-system/
 ## Schema Diagram
 
 <p align="center">
-  <img src="Diagrams/schema-diagram.png" width="750" alt="ICMS Schema Diagram"/>
+  <img src="Diagrams/Schema-diagram.png" width="750" alt="ICMS Schema Diagram"/>
 </p>
 
 
