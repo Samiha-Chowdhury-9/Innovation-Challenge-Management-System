@@ -107,8 +107,8 @@ innovation-challenge-management-system/
 │   ├── er-diagram.png
 │   ├── schema-diagram.png
 │   ├── class-diagram.png
-│   ├── use-case-diagram.png
-│   └── activity-diagram.png
+│   ├── use-case-diagram.jpg
+│   └── activity-diagram.jpg
 │
 ├── screenshots/
 │   ├── login.png
@@ -126,46 +126,52 @@ innovation-challenge-management-system/
 ## ER Diagram
 
 <p align="center">
-  <img src="diagrams/er-diagram.png" width="750" alt="ICMS ER Diagram"/>
+  <img src="Diagrams/er-diagram.png" width="750" alt="ICMS ER Diagram"/>
 </p>
+
 
 ## Schema Diagram
 
 <p align="center">
-  <img src="diagrams/schema-diagram.png" width="750" alt="ICMS Schema Diagram"/>
+  <img src="Diagrams/schema-diagram.png" width="750" alt="ICMS Schema Diagram"/>
 </p>
+
 
 ## System Interfaces
 
 ### Organizer Dashboard
 
 <p align="center">
-  <img src="screenshots/organizer-dashboard.png" width="800" alt="Organizer Dashboard"/>
+  <img src="Screenshots of UI/organizer-dashboard.png" width="800" alt="Organizer Dashboard"/>
 </p>
+
 
 The organizer can manage challenges, rounds, teams, judges, mentors, sponsors, prizes, and competition progress.
 
 ### Participant Dashboard
 
 <p align="center">
-  <img src="screenshots/participant-dashboard.png" width="800" alt="Participant Dashboard"/>
+  <img src="Screenshots of UI/participant-dashboard.png" width="800" alt="Participant Dashboard"/>
 </p>
+
 
 Participants can register for challenges, manage their teams, and submit projects.
 
 ### Judge Dashboard
 
 <p align="center">
-  <img src="screenshots/judge-dashboard.png" width="800" alt="Judge Dashboard"/>
+  <img src="Screenshots of UI/judge-dashboard.png" width="800" alt="Judge Dashboard"/>
 </p>
+
 
 Judges can view assigned submissions and provide scores and comments.
 
 ### Mentor Dashboard
 
 <p align="center">
-  <img src="screenshots/mentor-dashboard.png" width="800" alt="Mentor Dashboard"/>
+  <img src="Screenshots of UI/mentor-dashboard.png" width="800" alt="Mentor Dashboard"/>
 </p>
+
 
 Mentors can manage assigned teams and record mentorship sessions.
 
